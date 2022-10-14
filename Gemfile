@@ -1,2 +1,2 @@
-source "https://rubygems.org"
+source "https://bhaskartripathi.github.io"
 gemspec
