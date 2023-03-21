@@ -1,2 +1,2 @@
-source "https://bhaskartripathi.github.io"
+source "https://bhaskartripathi1.github.io"
 gemspec
